@@ -1,6 +1,4 @@
-# N-bit Quantized Face Recognition
-
-Implement the quantization of ["Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference", CVPR, 2018](https://arxiv.org/abs/1712.05877) for face recognition using MobileNetV2.
+# PytorchRepoTemplate
 
 ## Installation
 
@@ -17,7 +15,7 @@ conda env create -f environment.yaml
 
 3. Activate the environment
 ```
-source activate n_bit_quantized_face_recognition
+source activate PytorchRepoTemplate
 ```
 
 ## Repository Structure
